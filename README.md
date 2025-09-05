@@ -1,6 +1,6 @@
 # Helmet and Number Plate Detection using YOLOv12
 
-[![Project Demo](https://img.youtube.com/vi/Y-1EDpcoLG4/0.jpg)](https://youtu.be/Y-1EDpcoLG4)
+▶️ [Watch the project demo on YouTube](https://youtu.be/Y-1EDpcoLG4)
 
 ## Overview
 This project demonstrates real-time detection of helmets, no-helmet cases, and number plates in video streams using a custom-trained YOLOv12 model. It also integrates Google Gemini (via LangChain) for automatic number plate text extraction, providing a complete pipeline for safety compliance and automated monitoring.  
