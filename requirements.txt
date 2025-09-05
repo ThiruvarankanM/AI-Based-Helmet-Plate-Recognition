@@ -1,0 +1,7 @@
+opencv-python
+ultralytics
+numpy
+python-dotenv
+cvzone
+langchain-core
+langchain-google-genai
